@@ -1,18 +1,622 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8099f5bd-b0e4-4cec-a22f-084b736ec379" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/abab/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/array-equal/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-core/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-generator/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-bindify-decorators/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-define-map/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-explode-class/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-regex/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-loader/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-class-constructor-call/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-decorators/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-export-extensions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-class-constructor-call/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-decorators/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-export-extensions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-preset-es2015/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-preset-stage-1/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-preset-stage-2/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-preset-stage-3/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-register/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-template/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-traverse/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-types/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/browserify-zlib/test/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/chai-jquery/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/compression/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/cssom/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/cssstyle/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/deep-eql/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/enhanced-resolve/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/escodegen/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fbjs/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/fsevents/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/glob/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/growl/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/history/node_modules/warning/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/history/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-proxy-middleware/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-proxy-middleware/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-proxy-middleware/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jade/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jade/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jade/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jsdom/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/lodash-es/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/math-random/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mocha/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mocha/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mocha/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mocha/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/mocha/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/node-libs-browser/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/nwmatcher/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/open/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/pbkdf2-compat/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/react-dom/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/react-redux/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/react-redux/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/react-router/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/react-router/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/react/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/redux/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/stream-cache/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/symbol-observable/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/symbol-tree/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/to-iso-string/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/tr46/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/uglify-js/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/util/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/warning/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/watchpack/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webidl-conversions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-core/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-core/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-dev-middleware/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-dev-middleware/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-dev-server/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/whatwg-url/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/xml-name-validator/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/node_modules/youtube-api-search/package.json" />
+      <path value="$PROJECT_DIR$/ReduxSimpleStarter/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1693" />
     <option name="width" value="227" />
     <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-course" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -20,5 +624,62 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8099f5bd-b0e4-4cec-a22f-084b736ec379" name="Default" comment="" />
+      <created>1527105137320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527105137320</updated>
+      <workItem from="1527105138486" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="243000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32935324" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
 </project>
